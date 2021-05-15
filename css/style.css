@@ -1,0 +1,65 @@
+nav li a {
+    color: white !important;
+}
+
+.div_princ {
+    background-image: url("../img/img_p.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+    position: relative;
+    /* para poder posicionar el texto de forma absoluta */
+    display: inline-block;
+    /* para que solo ocupe el ancho de la imagen */
+    background-color: #daf3f7;
+}
+
+.texto-encima {
+    margin-top: 3rem;
+    margin-left: 3%;
+}
+
+.btn1 {
+    margin-left: 3%;
+}
+
+.btn2 {
+    margin-bottom: 10rem;
+    margin-left: 3%;
+}
+
+.rounded {
+    height: 15rem;
+}
+
+p {
+    text-align: justify;
+}
+
+.div_sec {
+    background-color: #daf3f7;
+}
+
+.p3 {
+    text-align: center;
+}
+
+.img_2 {
+    height: 10rem;
+    width: 20rem;
+}
+
+.div_cuar {
+    background-color: white;
+    width: 20rem;
+    height: 12rem;
+}
+
+.section3 {
+    background-color: #daf3f7;
+}
+
+.p_cuar {
+    width: 18rem;
+    text-align: justify;
+}
